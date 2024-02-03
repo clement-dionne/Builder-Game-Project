@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d91c28f3b2f9914428925bc6c7a58d14, type: 3}
+  m_Name: House
+  m_EditorClassIdentifier: 
+  Name: House
+  ItemSprite: {fileID: 21300000, guid: 8e3d447f854c6c64088cb97b89e579c7, type: 3}
+  IsBuilding: 1
+  BuildingGameObject: {fileID: 2364481947142233451, guid: bc68fa10b98234647b599a3208e11f6a,
+    type: 3}
+  NumberOfObject: 0
